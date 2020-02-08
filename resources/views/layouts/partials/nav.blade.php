@@ -26,13 +26,13 @@
     <div class="spacle-nav">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="/">
                     <img src="assets/img/logo.png" alt="logo">
                 </a>
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="index.html" class="nav-link active">Smart QR</a>
+                            <a href="/smartqr" class="nav-link active">Smart QR</a>
                         </li>
 
                         <li class="nav-item">
@@ -108,7 +108,7 @@
                     </ul>
 
                     <div class="others-options">
-                        <a href="qr-generator.html" class="default-btn mr-2">
+                        <a href="/qr-generator" class="default-btn mr-2">
                             <i class="bx bx-scan"></i>QR Generator<span></span>
                         </a>
                         <a href="log-in.html" class="default-btn black-btn">

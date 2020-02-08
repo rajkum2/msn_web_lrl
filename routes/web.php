@@ -23,3 +23,10 @@ Route::get('/', function () {
     return view('index');
  });
 
+ Route::get('/qr-generator', function () {
+    return view('qr-generator');
+ });
+
+ Route::get('/smartqr', function () {
+    return view('index');
+ });
