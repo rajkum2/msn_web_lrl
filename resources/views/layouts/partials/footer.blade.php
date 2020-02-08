@@ -46,9 +46,9 @@
                     <h3>Contact Info</h3>
 
                     <ul class="footer-contact-info">
-                        <li>Location: <a href="https://goo.gl/maps/MQ78iGP5g9VgZcJ38" target="_blank">6th Floor, Elegant Tower, York, USA</a></li>
-                        <li>Email: <a href="mailto:hello@spacle.com">hello@spacle.com</a></li>
-                        <li>Phone: <a href="tel:+321754754">+0 (321) 984 754</a></li>
+                        <li>Location: <a href="https://goo.gl/maps/MQ78iGP5g9VgZcJ38" target="_blank">Mytri Square, 2-41/11, 6/2, Gachibowli - Miyapur Rd, Prashanth Nagar Colony, Hyderabad, Telangana 500084</a></li>
+                        <li>Email: <a href="mailto:hello@muskscan.com">hello@muskscan.com</a></li>
+                        <li>Phone: <a href="tel:+9912345789">+0 (321) 984 754</a></li>
                     </ul>
                     <ul class="social">
                         <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
@@ -61,7 +61,7 @@
         </div>
 
         <div class="copyright-area">
-            <p>Copyright 2020 Strax. Designed by <a href="http://muskscan.com/" target="_blank">EnvyTheme</a></p>
+            <p>Copyright 2020 MuskScan. Designed by <a href="http://muskscan.com/" target="_blank">Musk Scan</a></p>
         </div>
     </div>
 </footer>

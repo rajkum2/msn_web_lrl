@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="zxx">
 
-<!-- Mirrored from templates.envytheme.com/strax/index-saas.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Feb 2020 13:57:43 GMT -->
 @include('layouts.partials.head')
     <body>
         <!-- Start Preloader Area -->

@@ -55,7 +55,7 @@ var chatMessages = [
     },
     {
         name: "ms7",
-        msg: "EnvyTheme.com | Premium High-Quality Items Design+Dev! Buy all exciting premium templates and themes from EnvyTheme!",
+        msg: "muskscan.com | Premium High-Quality Items Design+Dev! Buy all exciting premium templates and themes from EnvyTheme!",
         delay: 3000,
         align: "right",
         showTime: true,
@@ -145,7 +145,7 @@ var chatMessages = [
     },
     {
         name: "ms17",
-        msg: "EnvyTheme.com | Premium High-Quality Items Design+Dev! Buy all exciting premium templates and themes from EnvyTheme!",
+        msg: "muskscan.com | Premium High-Quality Items Design+Dev! Buy all exciting premium templates and themes from EnvyTheme!",
         delay: 3000,
         align: "right",
         showTime: true,
